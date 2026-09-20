@@ -1,0 +1,133 @@
+{
+    "152389": {
+        "name": "zilla",
+        "phone": "9876543210",
+        "pin": "1111",
+        "balance": 1500.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 1000.0,
+                "date": "20-09-2026 15:22:49",
+                "details": "Money deposited into account"
+            },
+            {
+                "type": "Transfer",
+                "amount": 500.0,
+                "date": "20-09-2026 15:28:18",
+                "details": "Received from account 427647"
+            }
+        ]
+    },
+    "427647": {
+        "name": "manja",
+        "phone": "1234567890",
+        "pin": "2222",
+        "balance": 1500.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 10.0,
+                "date": "20-09-2026 15:27:24",
+                "details": "Money deposited into account"
+            },
+            {
+                "type": "Deposit",
+                "amount": 990.0,
+                "date": "20-09-2026 15:27:48",
+                "details": "Money deposited into account"
+            },
+            {
+                "type": "Transfer",
+                "amount": 500.0,
+                "date": "20-09-2026 15:28:18",
+                "details": "Transferred to account 152389"
+            },
+            {
+                "type": "Transfer",
+                "amount": 1000.0,
+                "date": "20-09-2026 21:27:17",
+                "details": "Received from account 670200"
+            }
+        ]
+    },
+    "782546": {
+        "name": "silka",
+        "phone": "1122334455",
+        "pin": "1122",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "728723": {
+        "name": "silka",
+        "phone": "11223344",
+        "pin": "1122",
+        "balance": 4000.0,
+        "transactions": [
+            {
+                "type": "Transfer",
+                "amount": 4000.0,
+                "date": "20-09-2026 20:57:25",
+                "details": "Received from account 833792"
+            }
+        ]
+    },
+    "833792": {
+        "name": "silla",
+        "phone": "1234567890",
+        "pin": "1111",
+        "balance": 6000.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 12000.0,
+                "date": "20-09-2026 20:56:00",
+                "details": "Money deposited into account"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 2000.0,
+                "date": "20-09-2026 20:56:49",
+                "details": "Money withdrawn from account"
+            },
+            {
+                "type": "Transfer",
+                "amount": 4000.0,
+                "date": "20-09-2026 20:57:25",
+                "details": "Transferred to account 728723"
+            }
+        ]
+    },
+    "670200": {
+        "name": "sourav",
+        "phone": "1122334455",
+        "pin": "1234",
+        "balance": 52000.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 45000.0,
+                "date": "20-09-2026 21:26:58",
+                "details": "Money deposited into account"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 12000.0,
+                "date": "20-09-2026 21:27:08",
+                "details": "Money withdrawn from account"
+            },
+            {
+                "type": "Transfer",
+                "amount": 1000.0,
+                "date": "20-09-2026 21:27:17",
+                "details": "Transferred to account 427647"
+            },
+            {
+                "type": "Deposit",
+                "amount": 20000.0,
+                "date": "20-09-2026 21:27:57",
+                "details": "Money deposited into account"
+            }
+        ]
+    }
+}
