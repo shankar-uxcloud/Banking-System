@@ -197,6 +197,86 @@ Banking-System/
                 Frontend JavaScript
 ```
 
+
+# Screenshots
+
+The project includes screenshots demonstrating both the terminal-based application and the web-based application.
+
+## Terminal Application
+
+### Main Menu
+
+![Terminal Main Menu](screenshots/terminal/01_terminal_main_menu.png)
+
+### Create Account
+
+![Terminal Create Account](screenshots/terminal/02_terminal_create_account.png)
+
+### Login
+
+![Terminal Login](screenshots/terminal/03_terminal_login.png)
+
+### Check Balance
+
+![Terminal Check Balance](screenshots/terminal/04_terminal_check-balance.png)
+
+### Deposit and Withdraw
+
+![Terminal Deposit and Withdraw](screenshots/terminal/05_terminal_deposit_withdraw.png)
+
+### Transfer and Transaction History
+
+![Terminal Transfer and Transaction History](screenshots/terminal/06_terminal_transfer_and_transaction_history.png)
+
+### Change PIN and Logout
+
+![Terminal Change PIN and Logout](screenshots/terminal/07_terminal_change_pin_and_logout_exit.png)
+
+---
+
+## Web Application
+
+### Login
+
+![Web Login](screenshots/HTML-Web%20screenshots/01_web_login.png)
+
+### Create Account
+
+![Web Create Account](screenshots/HTML-Web%20screenshots/02_web_create_account.png)
+
+### Dashboard
+
+![Web Dashboard](screenshots/HTML-Web%20screenshots/03_web_dashboard.png)
+
+### Check Balance
+
+![Web Check Balance](screenshots/HTML-Web%20screenshots/04_web_check_balance.png)
+
+### Deposit, Withdraw and Transfer
+
+![Web Deposit Withdraw Transfer](screenshots/HTML-Web%20screenshots/05_web_deposit_withdraw_transfer.png)
+
+### Withdraw
+
+![Web Withdraw](screenshots/HTML-Web%20screenshots/06_web_withdraw.png)
+
+### Transfer
+
+![Web Transfer](screenshots/HTML-Web%20screenshots/07_web_transfer.png)
+
+### Transaction History
+
+![Web Transaction History](screenshots/HTML-Web%20screenshots/08_web_transaction_history.png)
+
+### Change PIN
+
+![Web Change PIN](screenshots/HTML-Web%20screenshots/09_web_change_pin.png)
+
+### Logout
+
+![Web Logout](screenshots/HTML-Web%20screenshots/10_web_logout.png)
+
+
 ---
 
 # Requirements
